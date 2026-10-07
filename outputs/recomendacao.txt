@@ -1,0 +1,10 @@
+Medicamento: ENOXAPARINA, CONCENTRAÇÃO:100 MG/ML, FORMA FARMACEUTICA:SOLUÇÃO INJETÁVEL, CARACTERÍSTICAS ADICIONAIS 1:SERINGA PREENCHIDA
+Unidade: SERINGA
+Demanda: 217806.75
+Custo total: R$ 1,716,317.19
+
+- Custo total estimado: R$ 1,716,317.19.
+- Demanda atendida: 217,806.75 unidades.
+- O fornecedor de menor preço de referência é MYLAN BRASIL DISTRIBUIDORA DE MEDICAMENTOS LTDA., a R$ 7.8800 por unidade.
+- A solução apresenta alta concentração em um fornecedor; recomenda-se avaliar risco operacional antes da contratação.
+- Os limites são estimativas históricas (percentil 90% das quantidades por fornecedor), portanto não substituem validação contratual.
